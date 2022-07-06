@@ -1,0 +1,15 @@
+D:\C sharp\RManager\bin\Debug\net6.0\C sharp.exe
+D:\C sharp\RManager\bin\Debug\net6.0\C sharp.deps.json
+D:\C sharp\RManager\bin\Debug\net6.0\C sharp.runtimeconfig.json
+D:\C sharp\RManager\bin\Debug\net6.0\C sharp.dll
+D:\C sharp\RManager\bin\Debug\net6.0\C sharp.pdb
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.csproj.AssemblyReference.cache
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.AssemblyInfoInputs.cache
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.AssemblyInfo.cs
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.csproj.CoreCompileInputs.cache
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.dll
+D:\C sharp\RManager\obj\Debug\net6.0\refint\C sharp.dll
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.pdb
+D:\C sharp\RManager\obj\Debug\net6.0\C sharp.genruntimeconfig.cache
+D:\C sharp\RManager\obj\Debug\net6.0\ref\C sharp.dll
